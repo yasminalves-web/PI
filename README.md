@@ -29,6 +29,17 @@ Pinhalense  - Setor de projetos
 
 ### Objetivo
  
- Gerar um auxiliar de pesquisa
+
+### Backlog Inicial
+
+### Épico 1 - Automação da Interligação
+- Desenvolver script de leitura do Inventor
+- Criar integração com Excel
+- Validar dados exportados
+
+### Épico 2 - IA para Identificação de Layouts
+- Coletar base de croquis
+- Treinar modelo de reconhecimento de padrões
+- Implementar sugestão automática de layout
 
  
