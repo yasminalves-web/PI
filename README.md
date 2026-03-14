@@ -1,35 +1,29 @@
-# Projeto Empresarial
+# Pinhalense auxílio de pesquisa e automatização – Estudo de Caso
 
- O Projeto (Nome em Desenvolvimento) visa a automação do processo de interligação do Inventor para uma tabela no Excel.
- 
+Bem-vindo ao repositório oficial do **Estudo de Pinhalense auxílio de pesquisa e automatização **, do nosso projeto integrador (PI).
 
-### Problema
+Este repositório contém o estudo completo que servirá de base para a elaboração:
 
-Gerar a interligação manualmente
+- Dos **Casos de Uso**
+- Da **Documentação Completa dos Casos de Uso**
+- Dos **Diagramas de Caso de Uso** (PlantUML ou imagem)
 
-### Publico
+---
 
-Pinhalense  - Setor de projetos
+# Visão Geral do Sistema
 
-### Objetivo
+A Pinhalense é uma empresa voltada para o agro, focando principalmente para a café cultura, ela deseja substituir processos manuais por um **sistema moderno de automatização e auxílio de pesquisa**, contemplando:
 
-Automatização de um processo manual para semi manual
+- Pesquisa de Layouts  
+- Importação de dados
+- Exportação de dados  
+- Análise de Croquis  
+- Recomendação de Layouts com base no Croqui enviado
 
- ## Projeto  (Nome em Desenvolvimento)
+O sistema será utilizado por:
 
-  Desenvolvimento de uma IA que identifique padrões em croquis de layouts para sugerir qual o progetista pode usar de base.
-
-### Problema
-
- Gasto de tempo excessivo na pesquisa por layouts em uma grande bibliotéca de dados
-
-### Publico
-
-Pinhalense  - Setor de projetos
-
-### Objetivo
- 
- Gerar um auxiliar de pesquisa
+- Projetistas/Engenharia de aplicação  
+- Coordenador
 
  
  ## Backlog Inicial
