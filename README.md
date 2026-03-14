@@ -14,10 +14,8 @@ Este repositório contém o estudo completo que servirá de base para a elabora�
 
 A Pinhalense é uma empresa voltada para o agro, focando principalmente para a café cultura, ela deseja substituir processos manuais por um **sistema moderno de automatização e auxílio de pesquisa**, contemplando:
 
-- Pesquisa de Layouts  
 - Importação de dados
 - Exportação de dados  
-- Análise de Croquis  
 - Recomendação de Layouts com base no Croqui enviado
 
 O sistema será utilizado por:
