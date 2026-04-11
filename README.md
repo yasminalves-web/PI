@@ -35,3 +35,9 @@ O sistema será utilizado por:
 - Coletar base de croquis
 - Treinar modelo de reconhecimento de padrões
 - Implementar sugestão automática de layout
+
+
+# Fluxo do funcionamento do projeto
+
+<img width="1390" height="938" alt="Fluxo do funcionamento do PI" src="https://github.com/user-attachments/assets/065304c0-d7db-4e7a-b837-0412ee835efb" />
+
